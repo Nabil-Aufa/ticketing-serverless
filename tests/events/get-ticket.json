@@ -1,0 +1,11 @@
+{
+  "version": "2.0",
+  "rawPath": "/tickets/GANTI_DENGAN_TICKET_ID",
+  "requestContext": {
+    "http": {
+      "method": "GET",
+      "path": "/tickets/GANTI_DENGAN_TICKET_ID"
+    }
+  },
+  "isBase64Encoded": false
+}

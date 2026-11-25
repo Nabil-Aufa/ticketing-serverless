@@ -1,0 +1,11 @@
+{
+  "version": "2.0",
+  "rawPath": "/tickets",
+  "requestContext": {
+    "http": {
+      "method": "GET",
+      "path": "/tickets"
+    }
+  },
+  "isBase64Encoded": false
+}

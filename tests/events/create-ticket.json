@@ -1,0 +1,12 @@
+{
+  "version": "2.0",
+  "rawPath": "/tickets",
+  "requestContext": {
+    "http": {
+      "method": "POST",
+      "path": "/tickets"
+    }
+  },
+  "isBase64Encoded": false,
+  "body": "{\"title\": \"Wifi lab mati\", \"description\": \"Tidak bisa connect sejak pagi\", \"priority\": \"high\", \"reporter\": \"Nabil\"}"
+}
